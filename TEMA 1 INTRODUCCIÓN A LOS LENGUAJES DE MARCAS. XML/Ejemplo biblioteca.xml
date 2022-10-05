@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<?xml-stylesheet type="text/css" href="estilos.css"?>
+<!DOCTYPE biblioteca> 
+<!--estoy guardando un comentario de ejemplo-->
+<biblioteca> 
+    <ejemplar>
+        <titulo>Harry</titulo>
+        <autor>JK</autor>
+        <fecha>10</fecha>
+        <paginas>123</paginas>
+    </ejemplar>
+    <ejemplar>
+        <titulo>LOLEL</titulo>
+        <autor>LOLO</autor>
+        <fecha>1234</fecha>
+        <paginas>123</paginas>
+    </ejemplar>
+    <ejemplar>
+        <titulo>SIRO</titulo>
+        <autor>SIRT</autor>
+        <fecha>1212</fecha>
+        <paginas>143</paginas>
+    </ejemplar>
+</biblioteca> 
