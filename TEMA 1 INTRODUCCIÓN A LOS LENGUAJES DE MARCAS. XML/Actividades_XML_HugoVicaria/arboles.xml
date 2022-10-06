@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE arboles>
+<arboles>
+  
+    <especie>
+        <nlatin>Acer monspessulanum</nlatin>
+        <ncomun>Arce de Montpellier, Arce menor</ncomun>
+        <vegetacion>caducifolio</vegetacion>
+        <altura>6-10m</altura>
+        <forma-estructura>Copa esferica. Tronco principal recto con bifurcaciones. Ramaje colgante</forma-estructura>
+        <color-primavera>Haz verde brillante, enves verde blanquecino</color-primavera>
+        <resistencia_heladas>Heladas fuertes (hasta -15C)</resistencia_heladas> 
+    </especie>
+    
+     <especie>
+        <nlatin>Olea europea</nlatin>
+        <ncomun>Olivo</ncomun>
+        <vegetacion>Perenne</vegetacion>
+        <altura>8-15m</altura>
+        <forma-estructura>Copa irregular. Tronco principal irregular con bifurcaciones.</forma-estructura>
+    </especie>
+
+     <especie>
+        <nlatin>Ramaje tortuoso</nlatin>
+        <color-primavera>Haz verde oscuro, enves verde plateado</color-primavera>
+        <resistencia_heladas>Heladas medias (hasta -10C)</resistencia_heladas> 
+    </especie>
+
+     <especie>
+        <nlatin>Platanus orientalis</nlatin>
+        <ncomun>Platano</ncomun>
+        <vegetacion>caducifolio</vegetacion>
+        <altura>20-25m</altura>
+        <forma-estructura>Copa ovoidal. Tronco principal recto. Ramaje expandido</forma-estructura>
+        <color-primavera>Haz verde medio, enves verde claro</color-primavera>
+        <color-otono>Ocre</color-otono>
+        <resistencia_heladas>Heladas fuertes (hasta -20C)</resistencia_heladas> 
+    </especie>
+
+     <especie>
+        <nlatin>Quercus ilex</nlatin>
+        <ncomun>Encina</ncomun>
+        <vegetacion>Perenne</vegetacion>
+        <altura>sobre 25m</altura>
+        <forma-estructura>Copa esferica o eliptica irregular. Tronco principal recto. Ramaje tortuoso</forma-estructura>
+        <color-primavera> Plateado en hojas jovenes. En hojas antiguas, haz verde oscuro, enves plateado</color-primavera>
+        <resistencia_heladas>Heladas fuertes (hasta -15C)</resistencia_heladas> 
+    </especie>
+
+</arboles>
