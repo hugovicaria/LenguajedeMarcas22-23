@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE torneo1>
+<torneo1>
+    <nombre>wimbeldon</nombre>
+    <fecha_inic>12/06/22</fecha_inic>
+    <fecha_fin>08/10/22</fecha_fin>
+
+    <partido1>
+        <fecha>14/06/22</fecha>
+        <datosjug1>
+            <nombre>Manolo Perez</nombre>
+            <nacionalidad>espanol</nacionalidad>
+            <edad>25</edad>
+        </datosjug1>
+        <datosjug2>
+            <nombre>Pepe Madrid</nombre>
+            <nacionalidad>arabe</nacionalidad>
+            <edad>24</edad>        
+        </datosjug2>
+        <resultado_set1>4-2</resultado_set1>
+        <resultado_set2>4-1</resultado_set2>
+        <resultado_set3>6-3</resultado_set3>    
+    </partido1>
+
+    <partido2>
+        <fecha>15/06/22</fecha>
+        <datosjug1>
+            <nombre>Lolo Luna</nombre>
+            <nacionalidad>ingles</nacionalidad>
+            <edad>22</edad>
+        </datosjug1>
+        <datosjug2>
+            <nombre>Enrique Lora</nombre>
+            <nacionalidad>polaco</nacionalidad>
+            <edad>21</edad>        
+        </datosjug2>
+        <resultado_set1>6-2</resultado_set1>
+        <resultado_set2>2-1</resultado_set2>
+        <resultado_set3>5-3</resultado_set3>    
+    </partido2>
+
+    <partido3>
+        <fecha>16/06/22</fecha>
+        <datosjug1>
+            <nombre>Ismael Almena</nombre>
+            <nacionalidad>ruso</nacionalidad>
+            <edad>25</edad>
+        </datosjug1>
+        <datosjug2>
+            <nombre>Juan Cuesta</nombre>
+            <nacionalidad>checo</nacionalidad>
+            <edad>25</edad>        
+        </datosjug2>
+        <resultado_set1>4-5</resultado_set1>
+        <resultado_set2>4-2</resultado_set2>
+        <resultado_set3>6-4</resultado_set3>    
+    </partido3>
+
+    <partido4>
+        <fecha>17/06/22</fecha>
+        <datosjug1>
+            <nombre>Antonio Rodirguez</nombre>
+            <nacionalidad>espanol</nacionalidad>
+            <edad>27</edad>
+        </datosjug1>
+        <datosjug2>
+            <nombre>Carmelo Conde</nombre>
+            <nacionalidad>espanol</nacionalidad>
+            <edad>20</edad>        
+        </datosjug2>
+        <resultado_set1>3-2</resultado_set1>
+        <resultado_set2>2-1</resultado_set2>
+        <resultado_set3>5-3</resultado_set3>    
+    </partido4>
+
+    <partido5>
+        <fecha>18/06/22</fecha>
+        <datosjug1>
+            <nombre>Carlos molina</nombre>
+            <nacionalidad>ingles</nacionalidad>
+            <edad>22</edad>
+        </datosjug1>
+        <datosjug2>
+            <nombre>Damian pina</nombre>
+            <nacionalidad>Ucraniano</nacionalidad>
+            <edad>24</edad>        
+        </datosjug2>
+        <resultado_set1>5-2</resultado_set1>
+        <resultado_set2>6-1</resultado_set2>
+        <resultado_set3>4-3</resultado_set3>    
+    </partido5>
+
+    <partido6>
+        <fecha>19/06/22</fecha>
+        <datosjug1>
+            <nombre>Vadym Lobanov</nombre>
+            <nacionalidad>Ucraniano</nacionalidad>
+            <edad>19</edad>
+        </datosjug1>
+        <datosjug2>
+            <nombre>Orestz Pablovich</nombre>
+            <nacionalidad>ruso</nacionalidad>
+            <edad>21</edad>        
+        </datosjug2>
+        <resultado_set1>5-2</resultado_set1>
+        <resultado_set2>3-1</resultado_set2>
+        <resultado_set3>2-3</resultado_set3>    
+    </partido6>
+
+    <partido7>
+        <fecha>24/06/22</fecha>
+        <datosjug1>
+            <nombre>Alex lobanova</nombre>
+            <nacionalidad>argentino</nacionalidad>
+            <edad>26</edad>
+        </datosjug1>
+        <datosjug2>
+            <nombre>Izan Chevarria</nombre>
+            <nacionalidad>aleman</nacionalidad>
+            <edad>24</edad>        
+        </datosjug2>
+        <resultado_set1>1-2</resultado_set1>
+        <resultado_set2>6-1</resultado_set2>
+        <resultado_set3>5-3</resultado_set3>    
+    </partido7>
+
+    <partido8>
+        <fecha>26/06/22</fecha>
+        <datosjug1>
+            <nombre>Silvio Romero</nombre>
+            <nacionalidad>espanol</nacionalidad>
+            <edad>25</edad>
+        </datosjug1>
+        <datosjug2>
+            <nombre>Pepe Madrid</nombre>
+            <nacionalidad>arabe</nacionalidad>
+            <edad>24</edad>        
+        </datosjug2>
+        <resultado_set1>4-2</resultado_set1>
+        <resultado_set2>4-1</resultado_set2>
+        <resultado_set3>6-3</resultado_set3>    
+    </partido8>
+
+    <partido9>
+        <fecha>14/06/22</fecha>
+        <datosjug1>
+            <nombre>Manolo Perez</nombre>
+            <nacionalidad>espanol</nacionalidad>
+            <edad>25</edad>
+        </datosjug1>
+        <datosjug2>
+            <nombre>Pepe Madrid</nombre>
+            <nacionalidad>arabe</nacionalidad>
+            <edad>24</edad>        
+        </datosjug2>
+        <resultado_set1>4-2</resultado_set1>
+        <resultado_set2>4-1</resultado_set2>
+        <resultado_set3>6-3</resultado_set3>    
+    </partido9>
+
+    <partido10>
+        <fecha>14/06/22</fecha>
+        <datosjug1>
+            <nombre>Manolo Perez</nombre>
+            <nacionalidad>espanol</nacionalidad>
+            <edad>25</edad>
+        </datosjug1>
+        <datosjug2>
+            <nombre>Pepe Madrid</nombre>
+            <nacionalidad>arabe</nacionalidad>
+            <edad>24</edad>        
+        </datosjug2>
+        <resultado_set1>4-2</resultado_set1>
+        <resultado_set2>4-1</resultado_set2>
+        <resultado_set3>6-3</resultado_set3>    
+    </partido10>
+
+</torneo1>

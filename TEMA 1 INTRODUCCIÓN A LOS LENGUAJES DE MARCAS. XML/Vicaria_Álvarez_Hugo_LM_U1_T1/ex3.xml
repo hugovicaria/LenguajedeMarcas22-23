@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE directorio-empresa>
+<directorio-empresa>
+    <edificio1>
+        <direccion>C/Mnedez Huelvano 8</direccion>
+        <nplantas>3</nplantas>
+        <planta1>
+            <metroscuadrados>40</metroscuadrados>
+            <empleado1>
+                <puesto>jefe</puesto>
+                <datospersonales>
+                    <Dni>48753697M</Dni>
+                    <Nombre>Hugo Vicaria Alvarez</Nombre>
+                    <Edad>32</Edad>
+                </datospersonales>
+                <telef-puesto>644976755</telef-puesto>
+            </empleado1>
+            <empleado2>
+                <puesto>director</puesto>
+                <datospersonales>
+                    <Dni>23140614H</Dni>
+                    <Nombre>Juan Cuesta</Nombre>
+                    <Edad>22</Edad>
+                </datospersonales>
+                <telef-puesto>999683688</telef-puesto>
+            </empleado2>
+            <empleado3>
+                <puesto>subdirector</puesto>
+                <datospersonales>
+                    <Dni>78143189K</Dni>
+                    <Nombre>Pepe Perez</Nombre>
+                    <Edad>20</Edad>
+                </datospersonales>
+                <telef-puesto>633586944</telef-puesto>
+            </empleado3>
+            <empleado4>
+                <puesto>peom</puesto>
+                <datospersonales>
+                    <Dni>8789895N</Dni>
+                    <Nombre>Enrique Fuentes</Nombre>
+                    <Edad>23</Edad>
+                </datospersonales>
+                <telef-puesto>966235877</telef-puesto>
+            </empleado4>
+            <empleado5>
+                <puesto>peon</puesto>
+                <datospersonales>
+                    <Dni>26710612M</Dni>
+                    <Nombre>Tony Mayers</Nombre>
+                    <Edad>23</Edad>
+                </datospersonales>
+                <telef-puesto>9668952336</telef-puesto>
+            </empleado5>
+        </planta1>
+
+        <planta2>
+            <metroscuadrados>40</metroscuadrados>
+            <empleado1>
+                <puesto>Jefe</puesto>
+                <datospersonales>
+                    <Dni>2346238190L</Dni>
+                    <Nombre>Paquito Lopez</Nombre>
+                    <Edad>25</Edad>
+                </datospersonales>
+                <telef-puesto>3669589665</telef-puesto>
+            </empleado1>
+            <empleado2>
+                <puesto>director</puesto>
+                <datospersonales>
+                    <Dni>48125341G</Dni>
+                    <Nombre>Juan Garcua</Nombre>
+                    <Edad>25</Edad>
+                </datospersonales>
+                <telef-puesto>500698755</telef-puesto>
+            </empleado2>
+            <empleado3>
+                <puesto>subdirector</puesto>
+                <datospersonales>
+                    <Dni>58145967L</Dni>
+                    <Nombre>Pepe Lopez</Nombre>
+                    <Edad>31</Edad>
+                </datospersonales>
+                <telef-puesto>699253699</telef-puesto>
+            </empleado3>
+            <empleado4>
+                <puesto>peon</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Maniki Madurrd</Nombre>
+                    <Edad>25</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado4>
+            <empleado5>
+                <puesto>peon</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Wilson Leire</Nombre>
+                    <Edad>23</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado5>
+        </planta2>
+
+        <planta3>
+            <metroscuadrados>40</metroscuadrados>
+            <empleado1>
+                <puesto>jefe</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Efeso Martin</Nombre>
+                    <Edad>25</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado1>
+            <empleado2>
+                <puesto>director</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Quiqo Lopez</Nombre>
+                    <Edad>24</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado2>
+            <empleado3>
+                <puesto>subdirector</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Lolo Menedu</Nombre>
+                    <Edad>26</Edad>
+                </datospersonales>
+                <telef-puesto></telef-puesto>
+            </empleado3>
+            <empleado4>
+                <puesto>peon</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Izabal Quilo</Nombre>
+                    <Edad>23</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado4>
+            <empleado5>
+                <puesto>peon</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Ruth Lopez</Nombre>
+                    <Edad>25</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado5>
+        </planta3>
+    
+    </edificio1>
+
+    <edificio2>
+        <direccion>C/Mnedez Huelvano 8</direccion>
+        <nplantas>3</nplantas>
+        <planta1>
+            <metroscuadrados>40</metroscuadrados>
+            <empleado1>
+                <puesto>jefe</puesto>
+                <datospersonales>
+                    <Dni>48753697M</Dni>
+                    <Nombre>Hugo Vicaria Alvarez</Nombre>
+                    <Edad>32</Edad>
+                </datospersonales>
+                <telef-puesto>644976755</telef-puesto>
+            </empleado1>
+            <empleado2>
+                <puesto>director</puesto>
+                <datospersonales>
+                    <Dni>23140614H</Dni>
+                    <Nombre>Juan Cuesta</Nombre>
+                    <Edad>22</Edad>
+                </datospersonales>
+                <telef-puesto>999683688</telef-puesto>
+            </empleado2>
+            <empleado3>
+                <puesto>subdirector</puesto>
+                <datospersonales>
+                    <Dni>78143189K</Dni>
+                    <Nombre>Pepe Perez</Nombre>
+                    <Edad>20</Edad>
+                </datospersonales>
+                <telef-puesto>633586944</telef-puesto>
+            </empleado3>
+            <empleado4>
+                <puesto>peom</puesto>
+                <datospersonales>
+                    <Dni>8789895N</Dni>
+                    <Nombre>Enrique Fuentes</Nombre>
+                    <Edad>23</Edad>
+                </datospersonales>
+                <telef-puesto>966235877</telef-puesto>
+            </empleado4>
+            <empleado5>
+                <puesto>peon</puesto>
+                <datospersonales>
+                    <Dni>26710612M</Dni>
+                    <Nombre>Tony Mayers</Nombre>
+                    <Edad>23</Edad>
+                </datospersonales>
+                <telef-puesto>9668952336</telef-puesto>
+            </empleado5>
+        </planta1>
+
+        <planta2>
+            <metroscuadrados>40</metroscuadrados>
+            <empleado1>
+                <puesto>Jefe</puesto>
+                <datospersonales>
+                    <Dni>2346238190L</Dni>
+                    <Nombre>Paquito Lopez</Nombre>
+                    <Edad>25</Edad>
+                </datospersonales>
+                <telef-puesto>3669589665</telef-puesto>
+            </empleado1>
+            <empleado2>
+                <puesto>director</puesto>
+                <datospersonales>
+                    <Dni>48125341G</Dni>
+                    <Nombre>Juan Garcua</Nombre>
+                    <Edad>25</Edad>
+                </datospersonales>
+                <telef-puesto>500698755</telef-puesto>
+            </empleado2>
+            <empleado3>
+                <puesto>subdirector</puesto>
+                <datospersonales>
+                    <Dni>58145967L</Dni>
+                    <Nombre>Pepe Lopez</Nombre>
+                    <Edad>31</Edad>
+                </datospersonales>
+                <telef-puesto>699253699</telef-puesto>
+            </empleado3>
+            <empleado4>
+                <puesto>peon</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Maniki Madurrd</Nombre>
+                    <Edad>25</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado4>
+            <empleado5>
+                <puesto>peon</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Wilson Leire</Nombre>
+                    <Edad>23</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado5>
+        </planta2>
+
+        <planta3>
+            <metroscuadrados>40</metroscuadrados>
+            <empleado1>
+                <puesto>jefe</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Efeso Martin</Nombre>
+                    <Edad>25</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado1>
+            <empleado2>
+                <puesto>director</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Quiqo Lopez</Nombre>
+                    <Edad>24</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado2>
+            <empleado3>
+                <puesto>subdirector</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Lolo Menedu</Nombre>
+                    <Edad>26</Edad>
+                </datospersonales>
+                <telef-puesto></telef-puesto>
+            </empleado3>
+            <empleado4>
+                <puesto>peon</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Izabal Quilo</Nombre>
+                    <Edad>23</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado4>
+            <empleado5>
+                <puesto>peon</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Ruth Lopez</Nombre>
+                    <Edad>25</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado5>
+        </planta3>
+    
+    </edificio2>
+
+    <edificio3>
+        <direccion>C/Mnedez Huelvano 8</direccion>
+        <nplantas>3</nplantas>
+        <planta1>
+            <metroscuadrados>40</metroscuadrados>
+            <empleado1>
+                <puesto>jefe</puesto>
+                <datospersonales>
+                    <Dni>48753697M</Dni>
+                    <Nombre>Hugo Vicaria Alvarez</Nombre>
+                    <Edad>32</Edad>
+                </datospersonales>
+                <telef-puesto>644976755</telef-puesto>
+            </empleado1>
+            <empleado2>
+                <puesto>director</puesto>
+                <datospersonales>
+                    <Dni>23140614H</Dni>
+                    <Nombre>Juan Cuesta</Nombre>
+                    <Edad>22</Edad>
+                </datospersonales>
+                <telef-puesto>999683688</telef-puesto>
+            </empleado2>
+            <empleado3>
+                <puesto>subdirector</puesto>
+                <datospersonales>
+                    <Dni>78143189K</Dni>
+                    <Nombre>Pepe Perez</Nombre>
+                    <Edad>20</Edad>
+                </datospersonales>
+                <telef-puesto>633586944</telef-puesto>
+            </empleado3>
+            <empleado4>
+                <puesto>peom</puesto>
+                <datospersonales>
+                    <Dni>8789895N</Dni>
+                    <Nombre>Enrique Fuentes</Nombre>
+                    <Edad>23</Edad>
+                </datospersonales>
+                <telef-puesto>966235877</telef-puesto>
+            </empleado4>
+            <empleado5>
+                <puesto>peon</puesto>
+                <datospersonales>
+                    <Dni>26710612M</Dni>
+                    <Nombre>Tony Mayers</Nombre>
+                    <Edad>23</Edad>
+                </datospersonales>
+                <telef-puesto>9668952336</telef-puesto>
+            </empleado5>
+        </planta1>
+
+        <planta2>
+            <metroscuadrados>40</metroscuadrados>
+            <empleado1>
+                <puesto>Jefe</puesto>
+                <datospersonales>
+                    <Dni>2346238190L</Dni>
+                    <Nombre>Paquito Lopez</Nombre>
+                    <Edad>25</Edad>
+                </datospersonales>
+                <telef-puesto>3669589665</telef-puesto>
+            </empleado1>
+            <empleado2>
+                <puesto>director</puesto>
+                <datospersonales>
+                    <Dni>48125341G</Dni>
+                    <Nombre>Juan Garcua</Nombre>
+                    <Edad>25</Edad>
+                </datospersonales>
+                <telef-puesto>500698755</telef-puesto>
+            </empleado2>
+            <empleado3>
+                <puesto>subdirector</puesto>
+                <datospersonales>
+                    <Dni>58145967L</Dni>
+                    <Nombre>Pepe Lopez</Nombre>
+                    <Edad>31</Edad>
+                </datospersonales>
+                <telef-puesto>699253699</telef-puesto>
+            </empleado3>
+            <empleado4>
+                <puesto>peon</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Maniki Madurrd</Nombre>
+                    <Edad>25</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado4>
+            <empleado5>
+                <puesto>peon</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Wilson Leire</Nombre>
+                    <Edad>23</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado5>
+        </planta2>
+
+        <planta3>
+            <metroscuadrados>40</metroscuadrados>
+            <empleado1>
+                <puesto>jefe</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Efeso Martin</Nombre>
+                    <Edad>25</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado1>
+            <empleado2>
+                <puesto>director</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Quiqo Lopez</Nombre>
+                    <Edad>24</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado2>
+            <empleado3>
+                <puesto>subdirector</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Lolo Menedu</Nombre>
+                    <Edad>26</Edad>
+                </datospersonales>
+                <telef-puesto></telef-puesto>
+            </empleado3>
+            <empleado4>
+                <puesto>peon</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Izabal Quilo</Nombre>
+                    <Edad>23</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado4>
+            <empleado5>
+                <puesto>peon</puesto>
+                <datospersonales>
+                    <Dni>24517613M</Dni>
+                    <Nombre>Ruth Lopez</Nombre>
+                    <Edad>25</Edad>
+                </datospersonales>
+                <telef-puesto>6335889542</telef-puesto>
+            </empleado5>
+        </planta3>
+    
+    </edificio3>
+
+</directorio-empresa>

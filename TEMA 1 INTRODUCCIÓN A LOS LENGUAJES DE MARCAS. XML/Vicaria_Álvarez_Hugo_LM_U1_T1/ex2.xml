@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE clusterhva>
+<clusterhva>
+    <nodo1>
+        <nombre>juaje</nombre>
+        <ip>192.168.2.6</ip>
+        <maquina1>
+            <nombre>jiji</nombre>
+            <sist-op>linux</sist-op>
+            <interf-red>
+                <ip>192.168.2.9</ip>
+                <mac>A1:56:BF:23</mac>
+            </interf-red>
+        </maquina1>
+
+        <maquina2>
+            <nombre>Engaya</nombre>
+            <sist-op>mac</sist-op>
+            <interf-red>
+                <ip>155.8.58.7</ip>
+                <mac>A1:56:BF:78</mac>
+            </interf-red>
+        </maquina2>
+
+        <maquina3>
+            <nombre>Minera</nombre>
+            <sist-op>windows</sist-op>
+            <interf-red>
+                <ip>189.36.5.8</ip>
+                <mac>B1:56:BF:23</mac>
+            </interf-red>
+        </maquina3>
+    </nodo1>
+    
+    <nodo2>
+        <nombre>juaje</nombre>
+        <ip>192.168.2.6</ip>
+        <maquina1>
+            <nombre>jiji</nombre>
+            <sist-op>linux</sist-op>
+            <interf-red>
+                <ip>192.168.2.9</ip>
+                <mac>A1:56:BF:23</mac>
+            </interf-red>
+        </maquina1>
+
+        <maquina2>
+            <nombre>Engaya</nombre>
+            <sist-op>mac</sist-op>
+            <interf-red>
+                <ip>155.8.58.7</ip>
+                <mac>A1:56:BF:78</mac>
+            </interf-red>
+        </maquina2>
+
+        <maquina3>
+            <nombre>Minera</nombre>
+            <sist-op>windows</sist-op>
+            <interf-red>
+                <ip>189.36.5.8</ip>
+                <mac>B1:56:BF:23</mac>
+            </interf-red>
+        </maquina3>
+    </nodo2>
+
+     <nodo3>
+        <nombre>juaje</nombre>
+        <ip>192.168.2.6</ip>
+        <maquina1>
+            <nombre>jiji</nombre>
+            <sist-op>linux</sist-op>
+            <interf-red>
+                <ip>192.168.2.9</ip>
+                <mac>A1:56:BF:23</mac>
+            </interf-red>
+        </maquina1>
+
+        <maquina2>
+            <nombre>Engaya</nombre>
+            <sist-op>mac</sist-op>
+            <interf-red>
+                <ip>155.8.58.7</ip>
+                <mac>A1:56:BF:78</mac>
+            </interf-red>
+        </maquina2>
+
+        <maquina3>
+            <nombre>Minera</nombre>
+            <sist-op>windows</sist-op>
+            <interf-red>
+                <ip>189.36.5.8</ip>
+                <mac>B1:56:BF:23</mac>
+            </interf-red>
+        </maquina3>
+    </nodo3>
+
+     <nodo4>
+        <nombre>juaje</nombre>
+        <ip>192.168.2.6</ip>
+        <maquina1>
+            <nombre>jiji</nombre>
+            <sist-op>linux</sist-op>
+            <interf-red>
+                <ip>192.168.2.9</ip>
+                <mac>A1:56:BF:23</mac>
+            </interf-red>
+        </maquina1>
+
+        <maquina2>
+            <nombre>Engaya</nombre>
+            <sist-op>mac</sist-op>
+            <interf-red>
+                <ip>155.8.58.7</ip>
+                <mac>A1:56:BF:78</mac>
+            </interf-red>
+        </maquina2>
+
+        <maquina3>
+            <nombre>Minera</nombre>
+            <sist-op>windows</sist-op>
+            <interf-red>
+                <ip>189.36.5.8</ip>
+                <mac>B1:56:BF:23</mac>
+            </interf-red>
+        </maquina3>
+    </nodo4>
+
+     <nodo5>
+        <nombre>juaje</nombre>
+        <ip>192.168.2.6</ip>
+        <maquina1>
+            <nombre>jiji</nombre>
+            <sist-op>linux</sist-op>
+            <interf-red1>
+                <ip>192.168.2.9</ip>
+                <mac>A1:56:BF:23</mac>
+            </interf-red1>
+            <interf-red2>
+                <ip>189.36.5.8</ip>
+                <mac>B1:56:BF:23</mac>
+            </interf-red2>
+        </maquina1>
+
+        <maquina2>
+            <nombre>Engaya</nombre>
+            <sist-op>mac</sist-op>
+            <interf-red1>
+                <ip>155.8.58.7</ip>
+                <mac>A1:56:BF:78</mac>
+            </interf-red1>
+            <interf-red2>
+                <ip>189.36.5.8</ip>
+                <mac>B1:56:BF:23</mac>
+            </interf-red2>
+        </maquina2>
+
+        <maquina3>
+            <nombre>Minera</nombre>
+            <sist-op>windows</sist-op>
+            <interf-red1>
+                <ip>189.36.5.8</ip>
+                <mac>B1:56:BF:23</mac>
+            </interf-red1>
+            <interf-red2>
+                <ip>189.36.5.10</ip>
+                <mac>C1:56:BF:93</mac>
+            </interf-red2>
+        </maquina3>
+    </nodo5>
+    
+
+</clusterhva>
