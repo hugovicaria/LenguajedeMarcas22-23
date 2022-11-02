@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE marcadores[
+<!ELEMENT marcadores (pagina)*>
+<!ELEMENT pagina (nombre, descripcion, url)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT url (#PCDATA)>
+]>
+
+<marcadores>
+    <pagina>
+        <nombre>hfgd</nombre>
+        <descripcion>ufhfu</descripcion>
+        <url>hu7ukl</url>
+    </pagina>
+</marcadores>

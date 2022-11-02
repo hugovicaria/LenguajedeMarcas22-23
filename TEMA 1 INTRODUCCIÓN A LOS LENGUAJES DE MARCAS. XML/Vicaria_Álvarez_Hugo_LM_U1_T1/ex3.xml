@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <!DOCTYPE directorio-empresa>
 <directorio-empresa>
-    <edificio1>
+    <edificio>
         <direccion>C/Mnedez Huelvano 8</direccion>
         <nplantas>3</nplantas>
         <planta1>
             <metroscuadrados>40</metroscuadrados>
-            <empleado1>
+            <empleado>
                 <puesto>jefe</puesto>
                 <datospersonales>
                     <Dni>48753697M</Dni>
@@ -14,8 +14,8 @@
                     <Edad>32</Edad>
                 </datospersonales>
                 <telef-puesto>644976755</telef-puesto>
-            </empleado1>
-            <empleado2>
+            </empleado>
+            <empleado>
                 <puesto>director</puesto>
                 <datospersonales>
                     <Dni>23140614H</Dni>
@@ -23,8 +23,8 @@
                     <Edad>22</Edad>
                 </datospersonales>
                 <telef-puesto>999683688</telef-puesto>
-            </empleado2>
-            <empleado3>
+            </empleado>
+            <empleado>
                 <puesto>subdirector</puesto>
                 <datospersonales>
                     <Dni>78143189K</Dni>
@@ -32,8 +32,8 @@
                     <Edad>20</Edad>
                 </datospersonales>
                 <telef-puesto>633586944</telef-puesto>
-            </empleado3>
-            <empleado4>
+            </empleado>
+            <empleado>
                 <puesto>peom</puesto>
                 <datospersonales>
                     <Dni>8789895N</Dni>
@@ -41,8 +41,8 @@
                     <Edad>23</Edad>
                 </datospersonales>
                 <telef-puesto>966235877</telef-puesto>
-            </empleado4>
-            <empleado5>
+            </empleado>
+            <empleado>
                 <puesto>peon</puesto>
                 <datospersonales>
                     <Dni>26710612M</Dni>
@@ -50,12 +50,12 @@
                     <Edad>23</Edad>
                 </datospersonales>
                 <telef-puesto>9668952336</telef-puesto>
-            </empleado5>
+            </empleado>
         </planta1>
 
         <planta2>
             <metroscuadrados>40</metroscuadrados>
-            <empleado1>
+            <empleado>
                 <puesto>Jefe</puesto>
                 <datospersonales>
                     <Dni>2346238190L</Dni>
@@ -63,8 +63,8 @@
                     <Edad>25</Edad>
                 </datospersonales>
                 <telef-puesto>3669589665</telef-puesto>
-            </empleado1>
-            <empleado2>
+            </empleado>
+            <empleado>
                 <puesto>director</puesto>
                 <datospersonales>
                     <Dni>48125341G</Dni>
@@ -72,8 +72,8 @@
                     <Edad>25</Edad>
                 </datospersonales>
                 <telef-puesto>500698755</telef-puesto>
-            </empleado2>
-            <empleado3>
+            </empleado>
+            <empleado>
                 <puesto>subdirector</puesto>
                 <datospersonales>
                     <Dni>58145967L</Dni>
@@ -81,8 +81,8 @@
                     <Edad>31</Edad>
                 </datospersonales>
                 <telef-puesto>699253699</telef-puesto>
-            </empleado3>
-            <empleado4>
+            </empleado>
+            <empleado>
                 <puesto>peon</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -90,8 +90,8 @@
                     <Edad>25</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado4>
-            <empleado5>
+            </empleado>
+            <empleado>
                 <puesto>peon</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -99,12 +99,12 @@
                     <Edad>23</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado5>
+            </empleado>
         </planta2>
 
         <planta3>
             <metroscuadrados>40</metroscuadrados>
-            <empleado1>
+            <empleado>
                 <puesto>jefe</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -112,8 +112,8 @@
                     <Edad>25</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado1>
-            <empleado2>
+            </empleado>
+            <empleado>
                 <puesto>director</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -121,8 +121,8 @@
                     <Edad>24</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado2>
-            <empleado3>
+            </empleado>
+            <empleado>
                 <puesto>subdirector</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -130,8 +130,8 @@
                     <Edad>26</Edad>
                 </datospersonales>
                 <telef-puesto></telef-puesto>
-            </empleado3>
-            <empleado4>
+            </empleado>
+            <empleado>
                 <puesto>peon</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -139,8 +139,8 @@
                     <Edad>23</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado4>
-            <empleado5>
+            </empleado>
+            <empleado>
                 <puesto>peon</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -148,17 +148,17 @@
                     <Edad>25</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado5>
+            </empleado>
         </planta3>
     
-    </edificio1>
+    </edificio>
 
-    <edificio2>
+    <edificio>
         <direccion>C/Mnedez Huelvano 8</direccion>
         <nplantas>3</nplantas>
         <planta1>
             <metroscuadrados>40</metroscuadrados>
-            <empleado1>
+            <empleado>
                 <puesto>jefe</puesto>
                 <datospersonales>
                     <Dni>48753697M</Dni>
@@ -166,8 +166,8 @@
                     <Edad>32</Edad>
                 </datospersonales>
                 <telef-puesto>644976755</telef-puesto>
-            </empleado1>
-            <empleado2>
+            </empleado>
+            <empleado>
                 <puesto>director</puesto>
                 <datospersonales>
                     <Dni>23140614H</Dni>
@@ -175,8 +175,8 @@
                     <Edad>22</Edad>
                 </datospersonales>
                 <telef-puesto>999683688</telef-puesto>
-            </empleado2>
-            <empleado3>
+            </empleado>
+            <empleado>
                 <puesto>subdirector</puesto>
                 <datospersonales>
                     <Dni>78143189K</Dni>
@@ -184,8 +184,8 @@
                     <Edad>20</Edad>
                 </datospersonales>
                 <telef-puesto>633586944</telef-puesto>
-            </empleado3>
-            <empleado4>
+            </empleado>
+            <empleado>
                 <puesto>peom</puesto>
                 <datospersonales>
                     <Dni>8789895N</Dni>
@@ -193,8 +193,8 @@
                     <Edad>23</Edad>
                 </datospersonales>
                 <telef-puesto>966235877</telef-puesto>
-            </empleado4>
-            <empleado5>
+            </empleado>
+            <empleado>
                 <puesto>peon</puesto>
                 <datospersonales>
                     <Dni>26710612M</Dni>
@@ -202,12 +202,12 @@
                     <Edad>23</Edad>
                 </datospersonales>
                 <telef-puesto>9668952336</telef-puesto>
-            </empleado5>
+            </empleado>
         </planta1>
 
         <planta2>
             <metroscuadrados>40</metroscuadrados>
-            <empleado1>
+            <empleado>
                 <puesto>Jefe</puesto>
                 <datospersonales>
                     <Dni>2346238190L</Dni>
@@ -215,8 +215,8 @@
                     <Edad>25</Edad>
                 </datospersonales>
                 <telef-puesto>3669589665</telef-puesto>
-            </empleado1>
-            <empleado2>
+            </empleado>
+            <empleado>
                 <puesto>director</puesto>
                 <datospersonales>
                     <Dni>48125341G</Dni>
@@ -224,8 +224,8 @@
                     <Edad>25</Edad>
                 </datospersonales>
                 <telef-puesto>500698755</telef-puesto>
-            </empleado2>
-            <empleado3>
+            </empleado>
+            <empleado>
                 <puesto>subdirector</puesto>
                 <datospersonales>
                     <Dni>58145967L</Dni>
@@ -233,8 +233,8 @@
                     <Edad>31</Edad>
                 </datospersonales>
                 <telef-puesto>699253699</telef-puesto>
-            </empleado3>
-            <empleado4>
+            </empleado>
+            <empleado>
                 <puesto>peon</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -242,8 +242,8 @@
                     <Edad>25</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado4>
-            <empleado5>
+            </empleado>
+            <empleado>
                 <puesto>peon</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -251,12 +251,12 @@
                     <Edad>23</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado5>
+            </empleado>
         </planta2>
 
         <planta3>
             <metroscuadrados>40</metroscuadrados>
-            <empleado1>
+            <empleado>
                 <puesto>jefe</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -264,8 +264,8 @@
                     <Edad>25</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado1>
-            <empleado2>
+            </empleado>
+            <empleado>
                 <puesto>director</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -273,8 +273,8 @@
                     <Edad>24</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado2>
-            <empleado3>
+            </empleado>
+            <empleado>
                 <puesto>subdirector</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -282,8 +282,8 @@
                     <Edad>26</Edad>
                 </datospersonales>
                 <telef-puesto></telef-puesto>
-            </empleado3>
-            <empleado4>
+            </empleado>
+            <empleado>
                 <puesto>peon</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -291,8 +291,8 @@
                     <Edad>23</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado4>
-            <empleado5>
+            </empleado>
+            <empleado>
                 <puesto>peon</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -300,17 +300,17 @@
                     <Edad>25</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado5>
+            </empleado>
         </planta3>
     
-    </edificio2>
+    </edificio>
 
-    <edificio3>
+    <edificio>
         <direccion>C/Mnedez Huelvano 8</direccion>
         <nplantas>3</nplantas>
         <planta1>
             <metroscuadrados>40</metroscuadrados>
-            <empleado1>
+            <empleado>
                 <puesto>jefe</puesto>
                 <datospersonales>
                     <Dni>48753697M</Dni>
@@ -318,8 +318,8 @@
                     <Edad>32</Edad>
                 </datospersonales>
                 <telef-puesto>644976755</telef-puesto>
-            </empleado1>
-            <empleado2>
+            </empleado>
+            <empleado>
                 <puesto>director</puesto>
                 <datospersonales>
                     <Dni>23140614H</Dni>
@@ -327,8 +327,8 @@
                     <Edad>22</Edad>
                 </datospersonales>
                 <telef-puesto>999683688</telef-puesto>
-            </empleado2>
-            <empleado3>
+            </empleado>
+            <empleado>
                 <puesto>subdirector</puesto>
                 <datospersonales>
                     <Dni>78143189K</Dni>
@@ -336,8 +336,8 @@
                     <Edad>20</Edad>
                 </datospersonales>
                 <telef-puesto>633586944</telef-puesto>
-            </empleado3>
-            <empleado4>
+            </empleado>
+            <empleado>
                 <puesto>peom</puesto>
                 <datospersonales>
                     <Dni>8789895N</Dni>
@@ -345,8 +345,8 @@
                     <Edad>23</Edad>
                 </datospersonales>
                 <telef-puesto>966235877</telef-puesto>
-            </empleado4>
-            <empleado5>
+            </empleado>
+            <empleado>
                 <puesto>peon</puesto>
                 <datospersonales>
                     <Dni>26710612M</Dni>
@@ -354,12 +354,12 @@
                     <Edad>23</Edad>
                 </datospersonales>
                 <telef-puesto>9668952336</telef-puesto>
-            </empleado5>
+            </empleado>
         </planta1>
 
         <planta2>
             <metroscuadrados>40</metroscuadrados>
-            <empleado1>
+            <empleado>
                 <puesto>Jefe</puesto>
                 <datospersonales>
                     <Dni>2346238190L</Dni>
@@ -367,8 +367,8 @@
                     <Edad>25</Edad>
                 </datospersonales>
                 <telef-puesto>3669589665</telef-puesto>
-            </empleado1>
-            <empleado2>
+            </empleado>
+            <empleado>
                 <puesto>director</puesto>
                 <datospersonales>
                     <Dni>48125341G</Dni>
@@ -376,8 +376,8 @@
                     <Edad>25</Edad>
                 </datospersonales>
                 <telef-puesto>500698755</telef-puesto>
-            </empleado2>
-            <empleado3>
+            </empleado>
+            <empleado>
                 <puesto>subdirector</puesto>
                 <datospersonales>
                     <Dni>58145967L</Dni>
@@ -385,8 +385,8 @@
                     <Edad>31</Edad>
                 </datospersonales>
                 <telef-puesto>699253699</telef-puesto>
-            </empleado3>
-            <empleado4>
+            </empleado>
+            <empleado>
                 <puesto>peon</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -394,8 +394,8 @@
                     <Edad>25</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado4>
-            <empleado5>
+            </empleado>
+            <empleado>
                 <puesto>peon</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -403,12 +403,12 @@
                     <Edad>23</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado5>
+            </empleado>
         </planta2>
 
         <planta3>
             <metroscuadrados>40</metroscuadrados>
-            <empleado1>
+            <empleado>
                 <puesto>jefe</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -416,8 +416,8 @@
                     <Edad>25</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado1>
-            <empleado2>
+            </empleado>
+            <empleado>
                 <puesto>director</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -425,8 +425,8 @@
                     <Edad>24</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado2>
-            <empleado3>
+            </empleado>
+            <empleado>
                 <puesto>subdirector</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -434,8 +434,8 @@
                     <Edad>26</Edad>
                 </datospersonales>
                 <telef-puesto></telef-puesto>
-            </empleado3>
-            <empleado4>
+            </empleado>
+            <empleado>
                 <puesto>peon</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -443,8 +443,8 @@
                     <Edad>23</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado4>
-            <empleado5>
+            </empleado>
+            <empleado>
                 <puesto>peon</puesto>
                 <datospersonales>
                     <Dni>24517613M</Dni>
@@ -452,9 +452,9 @@
                     <Edad>25</Edad>
                 </datospersonales>
                 <telef-puesto>6335889542</telef-puesto>
-            </empleado5>
+            </empleado>
         </planta3>
     
-    </edificio3>
+    </edificio>
 
 </directorio-empresa>
