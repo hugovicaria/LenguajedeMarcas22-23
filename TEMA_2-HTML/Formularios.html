@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+
+<body>
+    <!--form formulario  form mas atributo   form method=post enviar informacion-->
+    <!--action= url donde queremos que vaya la info-->
+    <!--label for= sireve pra identificar-->
+    <br>
+    <label for="id_nombre" style="font-weight:bold;">Nombre</label>
+    <!--fold-weight:bold negrita-->
+
+    <!--imput acceso, debe de ir asociado a los id name nombre de la entrada y id asociado al label-->
+    <!-- values= valor por defecto-->
+    <!--placeholder= informacion sobre lo que debe aparecer en el campo-->
+    <input type="text" name="nombre" id="id_nombre" value="Hugo">
+
+    <!--submite= boton tipo enviar/entregar-->
+    <input type="button" value="aceptar">
+    <input type="submit" name="enviar" id="bt_enviar">
+    <br>
+    <label for="s_option">Sufruta favorita</label>
+    <select name="opciones" id="s_opciones" size="3"> <!--size para que se enseñe los campos q quiero-->
+            <option value="Platano">Platanio</option>
+            <option value="Pera">Pera</option>
+            <option value="Maracuya">Maracuya</option>
+            <option value="Piña">Piña</option>
+        </select>
+    <!--multiple para seleccionar mas de una de las opciones va en select-->
+    <!--selected para elegir que una opcion salga la priemra por defecto va en option-->
+    <br>
+    <label for="t_consulta">Escriba su consulta</label>
+    <br>
+    <!--placeholder informacion que debe aparecer en el campo-->
+    <textarea name="consulta" id="t_consulta" cols="30" rows="10" placeholder="esriba aqui su consulta" style="font-family:Arial, Helvetica, sans-serif"></textarea>
+
+    <table>
+        <tr>
+            <td><label for="t_consulta">Escriba su consulta</label></td>
+            <td><textarea name="consulta" id="t_consulta" cols="30" rows="10" placeholder="esriba aqui su consulta" style="font-family:Arial, Helvetica, sans-serif"></textarea></td>
+        </tr>
+    </table>
+
+    <input type="button" value="aceptar">
+    <input type="reset" value="borrar">
+    <input type="submit" name="enviar" id="bt_enviar">
+    <br>
+
+    <fieldset>
+        <!--sirve para agrupar-->
+        <legend>Formulario</legend>
+        <!--Es un titulo-->
+        <table>
+            <tr>
+                <td><label for="t_consulta">Escriba su consulta</label></td>
+                <td><textarea name="consulta" id="t_consulta" cols="30" rows="10" placeholder="esriba aqui su consulta" style="font-family:Arial, Helvetica, sans-serif"></textarea></td>
+            </tr>
+        </table>
+
+        <input type="number" value="aceptar">
+        <input type="reset" value="borrar">
+        <input type="submit" name="enviar" id="bt_enviar">
+
+    </fieldset>
+
+    <input type="checkbox" name="coches" id="coches1" value="Renault">
+    <label for="coches1">Renault</label>
+    <input type="checkbox" name="coches" id="coches2">
+    <label for="coches2">RenaultSupra</label>
+    <input type="checkbox" name="coches" id="coches3">
+    <label for="coches3">RenaultFerrari</label>
+
+    </br>
+
+    <input type="radio" name="equipo" id="equipo">
+    <label for="equipo">España</label>
+    <input type="radio" name="equipo" id="equipo2">
+    <label for="equipo2">Japon</label>
+    <input type="radio" name="equipo" id="equipo3">
+    <label for="equipo3">Ukrania</label>
+
+
+
+    </form>
+</body>
+
+</html>
