@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio4-TresEnRaya</title>
+    <style>
+        td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+
+<body>
+    <table style=" border-style: outset; border-width: 3px; font-family: Arial, Helvetica, sans-serif;">
+        <tr>
+            <td></td>
+            <td>A</td>
+            <td>B</td>
+            <td>C</td>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td><img src="imagenes/cruz.png" alt="Foto Cruz"></td>
+            <td></td>
+            <td><img src="imagenes/tik.png" alt="Foto Tik"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td></td>
+            <td><img src="imagenes/cruz.png" alt="Foto Cruz"></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td><img src="imagenes/tik.png" alt="Foto Tik"></td>
+            <td></td>
+            <td><img src="imagenes/cruz.png" alt="Foto Cruz"></td>
+        </tr>
+    </table>
+
+    <form>
+        <table>
+            <thead>
+                <tr>
+                    <td colspan="2">Turno para Jugador UNO</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><label for="Fila">Fila</label></td>
+                    <td><input type="number" id="Fila"></td>
+                </tr>
+                <tr>
+                    <td><label for="Columna">Columna</label></td>
+                    <td><input type="number" id="Columna"></td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="2" style="text-align: center ;"><input type="submit"></td>
+                </tr>
+            </tfoot>
+        </table>
+    </form>
+
+
+
+</body>
+
+</html>
