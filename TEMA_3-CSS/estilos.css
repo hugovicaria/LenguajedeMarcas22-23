@@ -1,0 +1,76 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    color: blue;
+    font-size: large;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 0px;
+}
+
+#parrafo1 {
+    color: green;
+}
+
+.imagen2 {
+    border: 10px solid red;
+}
+
+h1 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: magenta;
+    font-weight: bolder;
+}
+
+img {
+    border: 20px solid blue;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+table,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+thead td {
+    background-color: blue;
+}
+
+body>ul>li {
+    color: rgb(16, 207, 64);
+}
+
+ul>li {
+    color: crimson;
+}
+
+p+img {
+    border: 20px solid green;
+}
+
+img~img {
+    border: 20px solid brown;
+}
+
+br~img {
+    padding: 15px;
+}
+
+[width="350px"] {
+    border: 20px solid yellow;
+}
+
+.lista1 ul ul>li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+/*Esto es un comentario*/
