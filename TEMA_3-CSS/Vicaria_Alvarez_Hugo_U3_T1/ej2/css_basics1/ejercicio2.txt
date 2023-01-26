@@ -1,0 +1,2 @@
+No se ven igual, porque los 5 ultimos no pertenecen a la clase p.verse a la cual se le aplican estilos diferentes.
+Para arreglarlo vamos a ponerle la clase a esos 5 ultimos p.

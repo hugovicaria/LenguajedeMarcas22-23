@@ -1,0 +1,9 @@
+body: le esta aplicando el color de fondo "tan" con la propiedad background-color.
+h1: le esta dando color "maroon" y el tamaño de la letra 20pt con font-size.
+hr: cambia el color a "navy" con color.
+p: tamaño de fuente 12pt y margen izquierdo 15px.
+p.verse: le esta aplicando a todos los p con la clase verse un color "maroon" y un margen izquierdo de 60px.
+a:link: color verde al link sin visitar.
+a:visited: color amarillo al link visitado.
+a:hover: color negro cuando el raton pasa por encima del link.
+a:active: color azul cuando seleccionamos ese link. 
