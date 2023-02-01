@@ -1,0 +1,21 @@
+body {
+    background-image: url(imagenes/fondo.jpg);
+}
+
+div {
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin-right: 150px;
+}
+
+.social-media-container img {
+    height: 30px;
+    width: 30px;
+}
+
+.social-media-container p {
+    display: flex;
+    align-items: center;
+    color: grey;
+}
