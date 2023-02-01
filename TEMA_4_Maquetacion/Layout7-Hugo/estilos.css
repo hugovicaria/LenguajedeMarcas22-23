@@ -2,11 +2,12 @@ body {
     background-image: url(imagenes/fondo.jpg);
 }
 
-div {
+div.social-media-container {
     position: fixed;
     top: 0;
     right: 0;
-    margin-right: 150px;
+    margin-right: 130px;
+    margin-top: 20px;
 }
 
 .social-media-container img {
@@ -18,4 +19,51 @@ div {
     display: flex;
     align-items: center;
     color: grey;
+}
+
+div.imgarriba img {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin-left: 130px;
+    margin-top: 20px;
+    height: 110px;
+    width: 300px;
+}
+
+div.medioizq {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin-left: 130px;
+    margin-top: 250px;
+}
+
+div.medioder img {
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin-right: 130px;
+    margin-top: 180px;
+    height: 350px;
+    width: 690px;
+}
+
+div.medioizq {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+div.medioizq span.ari {
+    font-size: 35px;
+    color: white;
+}
+
+div.medioizq span.med {
+    font-size: 75px;
+    color: orangered;
+}
+
+div.medioizq span.aba {
+    font-size: 35px;
+    color: white;
 }
