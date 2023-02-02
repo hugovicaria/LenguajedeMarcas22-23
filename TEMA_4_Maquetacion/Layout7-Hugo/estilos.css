@@ -22,7 +22,7 @@ div.social-media-container {
 }
 
 div.imgarriba img {
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     margin-left: 130px;
@@ -32,7 +32,7 @@ div.imgarriba img {
 }
 
 div.medioizq {
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     margin-left: 130px;
@@ -40,13 +40,13 @@ div.medioizq {
 }
 
 div.medioder img {
-    position: fixed;
+    position: absolute;
     top: 0;
     right: 0;
     margin-right: 130px;
     margin-top: 180px;
-    height: 350px;
-    width: 690px;
+    height: 45%;
+    width: 50%;
 }
 
 div.medioizq {
@@ -54,16 +54,16 @@ div.medioizq {
 }
 
 div.medioizq span.ari {
-    font-size: 35px;
+    font-size: 220%;
     color: white;
 }
 
 div.medioizq span.med {
-    font-size: 75px;
+    font-size: 338%;
     color: orangered;
 }
 
 div.medioizq span.aba {
-    font-size: 35px;
+    font-size: 160%;
     color: white;
 }
