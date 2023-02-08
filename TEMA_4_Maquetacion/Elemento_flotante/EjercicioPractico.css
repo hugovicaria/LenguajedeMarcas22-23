@@ -2,7 +2,7 @@
     text-align: center;
 }
 
-.BarraArriba {
+.arriba {
     background-color: black;
     color: white;
     margin-left: 2%;
@@ -38,7 +38,7 @@ figure {
     margin: -3.9px;
 }
 
-.lodelmedio {
+.medio {
     display: inline-block;
     width: 30%;
     text-align: left;
