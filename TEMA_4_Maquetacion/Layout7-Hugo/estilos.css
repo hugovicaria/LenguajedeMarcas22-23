@@ -26,8 +26,7 @@ div.social-media-container {
 div.imgarriba img {
     position: absolute;
     top: 0;
-    left: 0;
-    margin-left: 130px;
+    left: 11%;
     margin-top: 20px;
     height: 110px;
     width: 300px;
@@ -36,19 +35,8 @@ div.imgarriba img {
 div.medioizq {
     position: absolute;
     top: 0;
-    left: 0;
-    margin-left: 130px;
-    margin-top: 250px;
-}
-
-div.medioder img {
-    position: absolute;
-    top: 0;
-    right: 0;
-    margin-right: 130px;
-    margin-top: 180px;
-    height: 45%;
-    width: 50%;
+    left: 11%;
+    margin-top: 230px;
 }
 
 div.medioizq {
@@ -56,16 +44,117 @@ div.medioizq {
 }
 
 div.medioizq span.ari {
-    font-size: 220%;
+    font-size: 240%;
     color: white;
 }
 
 div.medioizq span.med {
-    font-size: 338%;
+    font-size: 358%;
     color: orangered;
 }
 
 div.medioizq span.aba {
-    font-size: 160%;
+    font-size: 170%;
     color: white;
+}
+
+.Camara {
+    width: 23%;
+    position: absolute;
+    right: 8%;
+    top: 24%;
+    transform: rotate(2deg);
+    z-index: 10;
+}
+
+.Foto {
+    width: 30%;
+    position: absolute;
+    right: 22%;
+    top: 19%;
+}
+
+div.abajo img {
+    width: 10%;
+    display: inline-block;
+    position: absolute;
+}
+
+div.abajo p {
+    font-family: medio;
+}
+
+.recent {
+    color: gray;
+    position: absolute;
+    bottom: 25.8%;
+    left: 11%;
+    font-size: xx-large;
+    width: 9%;
+}
+
+.photos {
+    color: white;
+    position: absolute;
+    bottom: 22.7%;
+    font-size: xx-large;
+    left: 11%;
+    width: 9%;
+}
+
+.portfolio {
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 17px;
+    color: #ffffff;
+    width: 8%;
+    padding-top: 0.7%;
+    padding-bottom: 0.7%;
+    background-color: orangered;
+    text-align: center;
+    left: 11%;
+    border-radius: 5%;
+    position: absolute;
+    bottom: 19%;
+}
+
+.abajo1 {
+    position: absolute;
+    left: 27%;
+    bottom: 19.5%;
+}
+
+.abajo2 {
+    position: absolute;
+    left: 41%;
+    bottom: 19.5%;
+    width: 40%;
+    height: 15%;
+}
+
+.abajo3 {
+    position: absolute;
+    left: 55%;
+    bottom: 19.5%;
+}
+
+.abajo4 {
+    position: absolute;
+    left: 69%;
+    bottom: 19.5%;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    font-family: fotografia;
+    clear: both;
+    font-size: x-large;
+    position: absolute;
+    border-top-style: solid;
+    border-color: gray;
+    bottom: 0;
+    margin-bottom: 2%;
+    width: 80%;
+    margin-left: 10%;
 }
