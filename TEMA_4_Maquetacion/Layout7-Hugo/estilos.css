@@ -36,7 +36,7 @@ div.medioizq {
     position: absolute;
     top: 0;
     left: 11%;
-    margin-top: 230px;
+    margin-top: 200px;
 }
 
 div.medioizq {
@@ -44,17 +44,17 @@ div.medioizq {
 }
 
 div.medioizq span.ari {
-    font-size: 240%;
+    font-size: 260%;
     color: white;
 }
 
 div.medioizq span.med {
-    font-size: 358%;
+    font-size: 398%;
     color: orangered;
 }
 
 div.medioizq span.aba {
-    font-size: 170%;
+    font-size: 186%;
     color: white;
 }
 
@@ -87,27 +87,27 @@ div.abajo p {
 .recent {
     color: gray;
     position: absolute;
-    bottom: 25.8%;
+    bottom: 24.8%;
     left: 11%;
     font-size: xx-large;
-    width: 9%;
+    width: 8%;
 }
 
 .photos {
     color: white;
     position: absolute;
-    bottom: 22.7%;
+    bottom: 20.7%;
     font-size: xx-large;
     left: 11%;
-    width: 9%;
+    width: 8%;
 }
 
 .portfolio {
     text-decoration: none;
     font-weight: 800;
-    font-size: 17px;
+    font-size: 15px;
     color: #ffffff;
-    width: 8%;
+    width: 9%;
     padding-top: 0.7%;
     padding-bottom: 0.7%;
     background-color: orangered;
@@ -115,7 +115,12 @@ div.abajo p {
     left: 11%;
     border-radius: 5%;
     position: absolute;
-    bottom: 19%;
+    bottom: 17%;
+}
+
+.portfolio a {
+    text-decoration: none;
+    color: inherit;
 }
 
 .abajo1 {
@@ -146,7 +151,7 @@ div.abajo p {
 
 footer {
     text-align: center;
-    color: white;
+    color: gray;
     font-family: fotografia;
     clear: both;
     font-size: x-large;
@@ -157,4 +162,8 @@ footer {
     margin-bottom: 2%;
     width: 80%;
     margin-left: 10%;
+}
+
+.whi {
+    color: white;
 }
