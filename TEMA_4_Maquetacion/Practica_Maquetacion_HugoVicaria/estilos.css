@@ -1,0 +1,175 @@
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.contenedor {
+    width: 100%;
+    position: relative;
+}
+
+.c1 {
+    position: relative;
+    width: 100%;
+    margin: 0px auto;
+    background-color: black;
+    color: white;
+    height: 80px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.c1 div:first-child {
+    overflow-y: auto;
+    float: left;
+}
+
+.c1 div:nth-child(2) {
+    position: absolute;
+    display: inline-block;
+    left: 1050px;
+    top: 35px;
+    font-size: 1em;
+}
+
+.c2 {
+    position: relative;
+    width: 100%;
+    margin: 0px auto;
+    background-color: rgb(84, 116, 77);
+    height: 40px;
+    border-bottom: solid rgb(1, 71, 1);
+}
+
+.c2 div {
+    float: left;
+    color: white;
+    padding: 10px;
+}
+
+.mv1:hover {
+    color: purple;
+    background-color: black;
+}
+
+img {
+    width: 15%;
+}
+
+.c3 {
+    position: relative;
+    width: 100%;
+    margin: 0px auto;
+    margin-top: 20px;
+    height: 430px;
+}
+
+.menu {
+    position: absolute;
+    width: 15%;
+    height: 233px;
+    background-color: rgb(201, 197, 197);
+    text-align: center;
+    border-radius: 4px;
+    margin-left: 2.5%;
+}
+
+.lef {
+    text-align: left;
+    margin-left: 12px;
+}
+
+.menu img {
+    position: relative;
+    bottom: 20px;
+    width: 90%;
+}
+
+.img {
+    width: 70%;
+    margin: 0px auto;
+}
+
+.parque {
+    width: 95%;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.parque img {
+    width: 70%;
+}
+
+.categorias {
+    position: relative;
+    width: 85%;
+    margin: 0px auto;
+    background-color: rgb(201, 197, 197);
+    margin-top: 30px;
+    font-weight: bold;
+    border-bottom: solid green;
+    font-size: large;
+}
+
+.cursos {
+    position: relative;
+    width: 85%;
+    margin: 8px auto;
+    background-color: rgb(201, 197, 197);
+    height: 160px;
+    padding: 5px;
+    color: rgb(84, 128, 40);
+    font-weight: bold;
+    border: 0.5px solid green;
+}
+
+.cursos ul {
+    list-style-type: none;
+}
+
+.cursos img {
+    position: absolute;
+    width: 10%;
+    left: 705px;
+    top: 75px;
+}
+
+.bo {
+    font-weight: bold;
+    color: black;
+}
+
+.calendar {
+    position: absolute;
+    width: 15%;
+    height: 230px;
+    background-color: rgb(201, 197, 197);
+    border-radius: 4px;
+    left: 1090px;
+    top: 0px;
+    padding-left: 10px;
+}
+
+.cal {
+    font-weight: bold;
+}
+
+.calendar img {
+    width: 150px;
+    height: 100px;
+}
+
+.caja_ultima {
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0px auto;
+}
+
+.caja_ultima img {
+    width: 5%;
+}
+
+.caja_ultima p {
+    margin-bottom: 0px;
+}
