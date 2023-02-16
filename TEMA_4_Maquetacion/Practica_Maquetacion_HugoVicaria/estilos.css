@@ -141,16 +141,20 @@ img {
 .calendar {
     position: absolute;
     width: 15%;
-    height: 230px;
+    height: 220px;
     background-color: rgb(201, 197, 197);
     border-radius: 4px;
     left: 1090px;
     top: 0px;
-    padding-left: 10px;
+    padding-left: 0px;
+    text-align: center;
 }
 
 .cal {
     font-weight: bold;
+    text-align: left;
+    margin-left: 27px;
+    margin-bottom: 6px;
 }
 
 .calendar img {
