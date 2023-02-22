@@ -1,0 +1,207 @@
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+}
+
+header {
+    width: 100%;
+    display: inline-block;
+}
+
+header div {
+    display: inline-block;
+}
+
+header div h1 {
+    margin-right: 5px;
+}
+
+#derecha {
+    list-style: none;
+    display: inline-block;
+    margin-left: 700px;
+}
+
+#arriba {
+    display: inline-block;
+    padding: 2px;
+}
+
+#txt {
+    color: gray;
+}
+
+#lista {
+    display: inline-block;
+    margin-left: 400px;
+    list-style: none;
+}
+
+.num {
+    display: block;
+}
+
+.gma {
+    display: block;
+}
+
+#ctum {
+    color: green;
+}
+
+.busq img {
+    margin-right: 0.5%;
+}
+
+nav {
+    background-color: rgb(66, 65, 65);
+    display: block;
+    width: 100%;
+    position: absolute;
+}
+
+nav ul {
+    display: inline-block;
+}
+
+nav form {
+    display: inline-block;
+    position: relative;
+    left: 58%;
+}
+
+nav li {
+    list-style: none;
+    display: inline-block;
+    color: white;
+    padding: 5px;
+    position: relative;
+}
+
+nav input {
+    color: rgb(66, 65, 65);
+    background-color: rgb(66, 65, 65);
+    ;
+    border: 0px;
+}
+
+main img {
+    width: 100%;
+    position: relative;
+    top: 110px;
+}
+
+#capt {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(97, 97, 97);
+    opacity: 80%;
+    bottom: 50px;
+    position: relative;
+    width: 350px;
+    margin-left: 45px;
+    color: white;
+}
+
+.bt1 a {
+    text-decoration: none;
+}
+
+.bt1 p {
+    text-align: center;
+    color: white;
+}
+
+.bt2 {
+    background-color: rgb(134, 132, 132);
+    width: 4%;
+    height: 8%;
+    display: inline-block;
+    position: absolute;
+    right: 150px;
+    top: 1100px;
+    border-right: 1px white solid;
+}
+
+.bt2 p {
+    text-align: center;
+    color: white
+}
+
+.bt2 a {
+    text-decoration: none;
+}
+
+footer {
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    bottom: 170px;
+}
+
+#div1 {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 25%;
+    display: inline-block;
+    position: relative;
+    margin-left: 100px;
+    margin-top: 3%;
+}
+
+#div2 {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 25%;
+    display: inline-block;
+    position: relative;
+    margin-left: 70px;
+}
+
+#div3 {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 25%;
+    display: inline-block;
+    position: relative;
+    margin-left: 90px;
+}
+
+#div1 img {
+    position: relative;
+    top: 60px;
+    right: 60px;
+}
+
+#div2 img {
+    position: relative;
+    top: 60px;
+    right: 65px;
+}
+
+#div3 img {
+    position: relative;
+    top: 60px;
+    right: 65px;
+}
+
+.mv1:hover {
+    color: purple;
+    background-color: black;
+}
+
+.mv1 p {
+    position: relative;
+    width: 100%;
+    margin: 5px;
+}
+
+.num {
+    padding: 0%;
+    margin: 0%;
+}
+
+.gma {
+    padding: 0%;
+    margin: 0%;
+}
