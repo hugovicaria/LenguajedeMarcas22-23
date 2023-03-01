@@ -19,10 +19,7 @@ body {
     width: 90%;
 }
 
-
-/* El contenedor flex para la primera fila de contenido */
-
-.content_wrapper {
+.contenido {
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 1em;
@@ -37,9 +34,6 @@ header {
     width: 100%;
 }
 
-
-/* El menú */
-
 nav {
     padding: 1em;
     width: 10%;
@@ -48,9 +42,6 @@ nav {
 nav div {
     margin-bottom: 20px;
 }
-
-
-/* El elemento principal */
 
 main {
     border: 1px solid #aaaaaa;
@@ -67,12 +58,9 @@ main img {
     width: 80%;
 }
 
-.content_wrapper article:nth-of-type(1) {
+.contenido article:nth-of-type(1) {
     height: 400px;
 }
-
-
-/* Artículo. Imágenes pequeñas */
 
 article {
     border: 1px solid #aaaaaa;
@@ -83,7 +71,7 @@ article {
     width: 32%;
 }
 
-.articles {
+.cielo {
     display: flex;
     justify-content: space-between;
     margin-left: 10%;
@@ -94,12 +82,6 @@ article img {
     height: 60%;
     width: 100%;
 }
-
-
-/* Pie de la página */
-
-
-/* Pie de la página */
 
 footer {
     align-items: center;
