@@ -1,0 +1,195 @@
+* {
+    box-sizing: border-box;
+}
+
+
+/* cuerpo y container*/
+
+body {
+    background-image: url(imagenes/fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+
+/*estilos cabecera*/
+
+div.imgarriba img {
+    display: flex;
+    top: 0;
+    left: 11%;
+    margin-top: 20px;
+    height: 110px;
+    width: 300px;
+}
+
+header {
+    display: flex;
+}
+
+header div {
+    width: 50%;
+}
+
+.social-network {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.social-network img {
+    width: 25px;
+    height: 25px;
+    border-radius: 10px;
+    margin: 3px;
+    top: 3px;
+}
+
+.social-network p {
+    display: flex;
+    align-items: center;
+    color: grey;
+    font-size: 20px;
+}
+
+#firma01 {
+    font-family: 'Mr Dafoe', cursive;
+    font-size: 2.1em;
+    color: white;
+    transform: rotate(-12deg);
+    position: relative;
+    bottom: 20px;
+}
+
+#firma02 {
+    font-size: 1.2em;
+    position: relative;
+    left: 170px;
+    bottom: 40px;
+}
+
+
+/*estilos para portada principal y titulo*/
+
+.portada {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.titulo {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.titulo p {
+    margin: 0px auto;
+}
+
+span.ari {
+    font-size: 260%;
+    color: white;
+}
+
+span.med {
+    font-size: 398%;
+    color: orangered;
+}
+
+span.aba {
+    font-size: 186%;
+    color: white;
+}
+
+.imagen-portada {
+    width: 60%;
+    height: 340px;
+    position: relative;
+}
+
+.imagen-portada img {
+    position: absolute;
+}
+
+.Foto {
+    width: 65%;
+    position: absolute;
+    right: 22%;
+    top: 6%;
+}
+
+.Camara {
+    width: 44%;
+    position: absolute;
+    right: -4%;
+    top: 20%;
+    transform: rotate(2deg);
+    z-index: 10;
+}
+
+
+/*estilos galeria*/
+
+.galeria {
+    display: flex;
+    justify-content: space-between;
+}
+
+.portfolio {
+    font-size: 1.6em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.portfolio p {
+    margin: 0px auto;
+}
+
+.portfolio :nth-child(1) {
+    color: gray;
+}
+
+button {
+    background-color: rgb(255, 40, 0);
+    padding: 7px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 0.6em;
+    text-shadow: 0.1em 0.1em 0.2em black;
+    color: #ffffff;
+    border-radius: 6px;
+    border: 2px solid #d46102;
+}
+
+#f1,
+#f2,
+#f3,
+#f4 {
+    height: 150px;
+    width: 250px;
+    border: 4px solid white;
+}
+
+
+/*pie de pagina*/
+
+footer {
+    text-align: center;
+}
+
+footer p {
+    color: gray;
+}
+
+span {
+    color: white;
+}
