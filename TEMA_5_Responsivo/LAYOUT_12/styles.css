@@ -1,5 +1,6 @@
 /*GENERALES*/
-*{
+
+* {
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -8,7 +9,9 @@ body {
     padding: 0;
 }
 
+
 /*CABECERA*/
+
 header {
     display: flex;
     justify-content: space-evenly;
@@ -43,45 +46,47 @@ header li {
     border-right: 1px solid #DDDDDD;
 }
 
-header li a:hover{
+header li a:hover {
     color: #FA5B3C;
 }
 
-header nav ul h1{
+header nav ul h1 {
     font-size: 1.87rem;
     margin-right: 2rem;
 }
 
-header nav li:last-child{
+header nav li:last-child {
     border-right: none;
 }
 
-nav:last-child{
+nav:last-child {
     display: flex;
     flex-direction: column;
 }
 
-nav:last-child button{
+nav:last-child button {
     width: 200%;
     height: 3rem;
     background-color: rgb(250, 250, 250);
     border: 1px solid gray;
 }
 
-nav:last-child button a{
+nav:last-child button a {
     text-decoration: none;
     color: gray;
 }
 
-nav:last-child button a:hover{
+nav:last-child button a:hover {
     color: orangered;
 }
 
-header nav:last-child ul{
+header nav:last-child ul {
     padding: 10px 40px;
 }
 
+
 /*PRIMERA SECCION*/
+
 #touch {
     background: url("./img/residential-banner-2.jpg") no-repeat center;
     background-size: cover;
@@ -91,9 +96,10 @@ header nav:last-child ul{
     padding: 5rem;
 }
 
-#flex{
+#flex {
     display: flex;
-    margin: 0rem 30rem;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 #touch h2 {
@@ -115,8 +121,10 @@ header nav:last-child ul{
     padding-bottom: 6rem;
 }
 
+
 /*FORMULARIO*/
-table button{
+
+table button {
     background-color: orangered;
     border-width: 0px;
     color: white;
@@ -126,14 +134,15 @@ table button{
     height: 20px;
 }
 
-table button:hover{
+table button:hover {
     transform: scale(1.1);
-    box-shadow: 1px  1px white;
+    box-shadow: 1px 1px white;
     transition: 200ms;
 }
 
 
 /*SEGUNDA SECCION*/
+
 #works {
     text-align: center;
 }
@@ -143,7 +152,7 @@ table button:hover{
     margin-bottom: 2rem;
 }
 
-#works > div {
+#works>div {
     display: flex;
     justify-content: space-between;
     width: 70%;
@@ -189,7 +198,9 @@ table button:hover{
     margin-top: 0.5rem;
 }
 
+
 /*TERCERA SECCION*/
+
 #pictures {
     display: flex;
     justify-content: center;
@@ -210,7 +221,9 @@ table button:hover{
     width: 100%;
 }
 
+
 /*FOOTER*/
-footer{
+
+footer {
     text-align: center;
 }
