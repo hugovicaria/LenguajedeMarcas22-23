@@ -231,7 +231,7 @@ footer {
     text-align: center;
 }
 
-@media screen and (min-width:575px) {
+@media screen and (min-width:576px) {
     #imagenes article {
         width: auto;
     }
