@@ -1,0 +1,232 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+header i {
+    color: white;
+    margin-right: 9px;
+    align-self: center;
+}
+
+header nav {
+    display: none;
+}
+
+header img {
+    width: 11%;
+    margin: 9px;
+}
+
+div:first-of-type {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+main section {
+    background-color: rgb(88, 88, 88);
+}
+
+main #uno p {
+    font-size: 5vw;
+    padding-right: 13px;
+    padding-left: 13px;
+    text-align: center;
+    color: white;
+}
+
+main #uno h1 {
+    text-align: center;
+    color: white;
+    font-size: 11vw;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 1px;
+}
+
+main form {
+    text-align: center;
+}
+
+main #dos form label,
+main #dos form input,
+main #dos form p {
+    display: none;
+}
+
+main #dos form button {
+    color: white;
+    background-color: green;
+    width: 37%;
+    height: 48px;
+    margin-bottom: 31.5px;
+    border-radius: 4.5px;
+}
+
+#tres p {
+    padding-right: 26px;
+    padding-left: 26px;
+    text-align: center;
+    font-size: 5vw;
+}
+
+#tres p a {
+    width: 33%;
+    padding: 21px;
+    border: 1.5px solid;
+    border-radius: 4.5px;
+    text-decoration: none;
+    color: blue;
+}
+
+#tres h1 {
+    font-size: 10vw;
+    font-weight: bold;
+    text-align: center;
+}
+
+#tres h3 {
+    font-size: 7vw;
+    font-weight: bold;
+    text-align: center;
+}
+
+#cuatro div {
+    text-align: center;
+}
+
+#cuatro div img {
+    width: 32%;
+}
+
+#cuatro div p {
+    font-size: 5vw;
+    margin-right: 38x;
+    margin-left: 38px;
+}
+
+#cuatro div h3 {
+    width: 100%;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 6vw;
+}
+
+#imagen {
+    display: flex;
+    flex-flow: wrap wrap;
+    justify-content: center;
+    align-content: flex-start;
+}
+
+@media screen and (min-width: 576px) {
+    header i {
+        align-self: flex-start;
+        margin-top: 21px;
+    }
+    header img {
+        width: 16%;
+        margin: 10px;
+    }
+    main #uno p {
+        font-size: 5vw;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    main #uno h1 {
+        font-size: 6vw;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-bottom: 0px;
+    }
+    main form {
+        text-align: center;
+    }
+    main #dos form button {
+        color: white;
+        background-color: green;
+        width: 40%;
+        height: 52px;
+        margin-bottom: 31px;
+        margin-top: 10px;
+    }
+    main #dos form label,
+    main #dos form input,
+    main #dos form p {
+        display: inherit;
+        text-align: left;
+    }
+    main #dos form label {
+        margin: 10px;
+        margin-left: 20px;
+        font-size: 5vw;
+        font-weight: bolder;
+    }
+    main #dos form input {
+        margin-left: 20px;
+        width: 90%;
+        height: 30px;
+    }
+    main #dos form p {
+        font-size: 5vw;
+    }
+    #dos form {
+        width: 92%;
+        margin: 15px auto;
+        background-color: white;
+    }
+    #tres p {
+        font-size: 3vw;
+    }
+    #tres h1 {
+        font-size: 6vw;
+    }
+    #tres h3 {
+        font-size: 4vw;
+    }
+    #cuatro div p {
+        font-size: 3vw;
+        margin: 10px;
+    }
+    #cuatro div h3 {
+        font-size: 4vw;
+    }
+}
+
+@media screen and(min-width:992px) {
+    body div {
+        margin: 15px auto;
+        width: 90%;
+    }
+    header {
+        justify-content: left;
+        align-content: center;
+    }
+    header img {
+        width: 7%;
+        margin: 10px;
+    }
+    main {
+        display: flex;
+        flex-flow: row-reverse wrap;
+    }
+    #parrafo {
+        width: 50%;
+    }
+    #entero {
+        display: flex;
+        flex-flow: row wrap;
+    }
+    #imagen {
+        display: flex;
+        flex-flow: wrap wrap;
+        justify-content: center;
+        align-content: flex-start;
+    }
+}
