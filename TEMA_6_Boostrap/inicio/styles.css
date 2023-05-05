@@ -1,0 +1,21 @@
+#verde {
+    text-align: center;
+    background-color: green;
+    color: black;
+    font-weight: bold;
+}
+
+div.green {
+    background-color: green;
+    height: 300px;
+}
+
+div.yellow {
+    background-color: yellow;
+    height: 300px;
+}
+
+div.red {
+    background-color: red;
+    height: 300px;
+}
