@@ -1,0 +1,28 @@
+.uno {
+    font-size: 2.5rem !important;
+}
+
+.rojo {
+    color: red !important;
+}
+
+.contenido {
+    width: 60%;
+    font-size: 2rem !important;
+}
+
+.letra {
+    font-size: 3rem !important;
+}
+
+.fondo {
+    background-image: url("img/residential-banner-2.jpg") !important;
+    background-repeat: no-repeat !important;
+    background-size: cover;
+    background-position-x: 48%
+}
+
+.boton {
+    background-color: orange !important;
+    margin-left: 60%;
+}
